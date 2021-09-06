@@ -9,4 +9,4 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 
 ### Informal Responses
 Getting Started
-[Path of a Running Boy.pdf]
+[Path of a Running Boy.pdf](Path of a Running Boy.pdf)
