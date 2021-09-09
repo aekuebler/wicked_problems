@@ -8,5 +8,6 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 ![AnneMarieKuebler.jpg](AnneMarieKuebler.jpg)
 
 ### Informal Responses
-Getting Started
-[Path of a Running Boy](Path of a Running Boy.pdf)
+Getting Started [Path of a Running Boy](Path of a Running Boy.pdf)
+
+2. September 9 - Hans Rosling [The Best Stats Ever](rosling.md) 
