@@ -8,6 +8,6 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 ![AnneMarieKuebler.jpg](AnneMarieKuebler.jpg)
 
 ### Informal Responses
-1. DATA 100[Getting Started 1.4](gettingstarted.md)
+1. DATA 100 [Getting Started 1.4](gettingstarted.md)
 
 2. September 9 - Hans Rosling [The Best Stats Ever](rosling.md) 
