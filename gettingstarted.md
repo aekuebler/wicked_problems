@@ -1,7 +1,7 @@
 ### Getting Started
 Part 1
 
-(Path of a Running Boy Graph)[Path of a Running Boy.pdf]
+(Path of a Running Boy Graph)[Path of a Running Boy.html]
 
 (Path of a Running Boy Code)[getingstarted.R]
 
