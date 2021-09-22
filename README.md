@@ -1,4 +1,4 @@
-# Wicked Problems
+# Human Development
 
 ### Anne Marie Kuebler 
 ### Introduction
@@ -10,4 +10,6 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 ### Informal Responses
 1. DATA 100 [Getting Started 1.4](gettingstarted.md)
 
-2. September 9 - Hans Rosling [The Best Stats Ever](rosling.md) 
+2. September 9 - Hans Rosling [The Best Stats Ever](rosling.md)
+
+3. September 21 - Owen Barder [Development and Complexity](barder.md)
