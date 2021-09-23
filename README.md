@@ -13,3 +13,5 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 2. September 9 - Hans Rosling [The Best Stats Ever](rosling.md)
 
 3. September 21 - Owen Barder [Development and Complexity](barder.md)
+
+4. September 23 - Essay [Development and Solutions](informalessay.md)
