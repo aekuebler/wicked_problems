@@ -15,3 +15,5 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 3. September 21 - Owen Barder [Development and Complexity](barder.md)
 
 4. September 23 - Essay [Development and Solutions](informalessay.md)
+
+5. September 28 - Class Essay [Background Information](background.md)
