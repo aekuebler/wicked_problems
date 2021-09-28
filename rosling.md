@@ -1,6 +1,6 @@
 1. What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?
 
-* Rosling's survey showed that on average the students got 1.8, chimpanzees got 2.5, and faculty got 2.4 questions right out of 5. These results showed that students were impacted by preconceived ideas about each of the countries. The chimpanzees did better because they would just be picking one or the other. It showed that the students' view of the world was "we" (Western World) vs. "them" (third world countries).
+*    Rosling's survey showed that on average the students got 1.8, chimpanzees got 2.5, and faculty got 2.4 questions right out of 5. These results showed that students were impacted by preconceived ideas about each of the countries. The chimpanzees did better because they would just be picking one or the other. It showed that the students' view of the world was "we" (Western World) vs. "them" (third world countries).
 
 2. What type of change took place in Asia that preceeded economic growth? Why was this type of change significant?
 
