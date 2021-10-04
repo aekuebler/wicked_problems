@@ -21,4 +21,4 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 6. September 30 - Gapminder Analysis [U.S. and Vietnam Life Expectancy vs. Income](gapminder.md)
 
 ### Formal Assignments
-1. October 3 - Annotated Bibliography [Epidemiology: Measles](Annotated Bibliography.docx)
+1. October 3 - Annotated Bibliography [Epidemiology: Measles](annotatedbibliography.md)
