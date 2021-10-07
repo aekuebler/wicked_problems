@@ -4,8 +4,11 @@ The topic I chose was financing education, which focuses on how much a country s
 
 In the second graph I looked at, it described the percentage of total education expenditures by household in 30 different countries grouped by income. It broke up each country to show how much the households spend on each level of education as well. The top group of countries I assume is the higher-income countries and the bottom group is the low- to middle-income countries. In the top group, the primary and secondary education expenditure is much lower, and then the tertiary education is what makes the expenditure percentages greater in some of the countries. In the lower part of the chart  (low-mid income), the secondary education is what is using the most money on average, and then tertiary and primary education seem to be around the same percentage but less than the secondary. It seems that there is a greater percentage of expenditure from households in low-mid income countries on average for all education. I think the secondary has a greater percentage than tertiary for the bottom countries because less people in less developed countries will even go to tertiary school, therefore spending less money on it. They have to focus more on paying for secondary education. For the higher income countries, primary and secondary education expenditures are extremely lower and about equal in each country, making me think that this education is provided by the government (through taxes), and then they focus more on paying for tertiary education. 
 
+Graph 1: 1960
 ![image](https://user-images.githubusercontent.com/89928121/136402539-631d6d01-0abe-479b-ad53-cd322b4b1fa1.png)
 
+Graph 1: 2010
 ![image](https://user-images.githubusercontent.com/89928121/136402585-cbaf6c70-b811-4c6d-903c-92d8d5761805.png)
 
+Graph 2
 ![image](https://user-images.githubusercontent.com/89928121/136402619-31534ed6-ab02-43a0-a236-ae9a990c757d.png)
