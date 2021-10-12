@@ -1,7 +1,7 @@
 ### Getting Started
 Part 1
 
-(Path of a Running Boy Graph)[Path of a Running Boy.pdf]
+(Path of a Running Boy Graph)[![image](https://user-images.githubusercontent.com/89928121/136971707-d9dad4c3-7d2d-4052-a768-fa9cc291310f.png)]
 
 (Path of a Running Boy Code)[getingstarted.R]
 
