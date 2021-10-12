@@ -20,6 +20,7 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 
 6. September 30 - Gapminder Analysis [U.S. and Vietnam Life Expectancy vs. Income](gapminder.md)
 7. October 7 - Our World in Data Analysis [Financing Education](financingeducation.md)
+8. October 12 - China's BRI Article [China's BRI](chinaBRI.md)
 
 ### Formal Assignments
 1. October 3 - Annotated Bibliography [Epidemiology: Measles](annotatedbibliography.md)
