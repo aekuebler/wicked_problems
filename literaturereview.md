@@ -27,6 +27,7 @@ There has been sufficient data about different regions in Africa that are strugg
 Central research question: The two part system of routine vaccination and SIAs has worked successfully in some countries, more developed, to obtain high vaccination rates, but what are some other systems or ways to alter this system to make it more compatible to regions with different demographics or economic situations?
 
 Bibliography
+
 Cutts, F. T., Ferrari, M. J., Krause, L. K., Tatem, A. J., & Mosser, J. F. (2021, January 5). Vaccination strategies for measles control and elimination: Time to strengthen local initiatives. BMC Medicine. Retrieved October 4, 2021, from https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01843-z. 
 
 Goodson, J. L., Masresha, B. G., Wannemuehler, K., Uzicanin, A., & Cochi, S. (2011). Changing epidemiology of measles in Africa. The Journal of infectious diseases, 204 Suppl 1, S205–S214. https://doi.org/10.1093/infdis/jir129
