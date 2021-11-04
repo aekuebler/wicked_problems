@@ -19,6 +19,7 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 9. October 21 - Diamandis's Human Well Being Topics [Reducing Poverty](diamandis.md)
 10. October 28 - What is Data Science? [Data science in medicine](medicine.md)
 11. November 2 - Analysis of HDI Index [HDI Index](hdiindex.md)
+12. November 4 - Replacement Topic Ideas [Topic Ideas](suggestions.md) 
 
 
 ### Formal Assignments
