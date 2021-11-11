@@ -21,6 +21,7 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 11. November 2 - Analysis of HDI Index [HDI Index](hdiindex.md)
 12. November 4 - Replacement Topic Ideas [Topic Ideas](suggestions.md) 
 13. November 9 - Facial Recognition Technology [Facebook's Facial Recognition Data](facialrecognition.md)
+14. November 11 - PENN Data and COVID [COVID's affect on Medicine](penncovid.md)
 
 
 ### Formal Assignments
