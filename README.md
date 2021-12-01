@@ -29,3 +29,4 @@ Hi! I'm Anne Marie Kuebler, and I'm from St. Louis, MO. I am planning on majorin
 1. October 3 - Annotated Bibliography [Epidemiology: Measles](annotatedbibliography.md)
 2. October 24 - Literature Review [Epidemiology: Measles](literaturereview.md)
 3. November 21 - Methodological Investigation [Epidemiology: Measles](methodologicalinvestigation.md)
+4. December 2 - Presenting Results - Title/Abstract [Epidemiology: Measles](abstract.md)
